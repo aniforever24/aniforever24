@@ -62,5 +62,6 @@ You can find more experiments, learning projects, and full-stack apps in my repo
 
 - Portfolio: _soon_
 - GitHub: https://github.com/aniforever24
+- Email: animeshsharma5121@gmail.com
 
 Thanks for visiting!
