@@ -60,7 +60,7 @@ You can find more experiments, learning projects, and full-stack apps in my repo
 
 ## 📬 Contact
 
-- Portfolio: _(add when ready)_
+- Portfolio: _soon_
 - GitHub: https://github.com/aniforever24
 
 Thanks for visiting!
