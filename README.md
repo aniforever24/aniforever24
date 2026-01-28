@@ -8,10 +8,12 @@ I enjoy breaking down complex UIs, understanding how things work under the hood,
 
 ## 🧠 What I work with
 
+- **Languages:** Javascript, Python, HTML, CSS
 - **Frontend:** React, Tailwind CSS, Framer Motion
 - **Backend:** Node.js, Express
-- **Database:** MongoDB (Mongoose)
-- **Other:** REST APIs, Git, GitHub, basic system design concepts
+- **Database:** MongoDB, Mongoose ODM
+- **Integrations:** Frontend-Backend Data Flow, JWT-based Authentication, Environment & Config Management, 3rd-pary API integration, Stripe
+- **Other:** Git, GitHub, REST APIs, Webhooks, LLMs, jQuery
 
 ---
 
