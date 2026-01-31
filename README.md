@@ -62,7 +62,7 @@ You can find more experiments, learning projects, and full-stack apps in my repo
 
 ## 📬 Contact
 
-- Portfolio: https://my-portfolio-monorepo-client-9y2utlqu3.vercel.app/
+- Portfolio: https://my-portfolio-monorepo-client.vercel.app/
 - GitHub: https://github.com/aniforever24
 - Email: animeshsharma5121@gmail.com
 
