@@ -42,6 +42,7 @@ UI clone projects built to understand layout systems, responsiveness, and modern
 
 - Tech: React, Tailwind CSS
 - Focus: layout, spacing, visual hierarchy
+👉 Repo: https://github.com/aniforever24/Spotify-clone
 
 ---
 
