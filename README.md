@@ -41,7 +41,7 @@ A frontend-focused project replicating core UI patterns of X (Twitter).
 UI clone projects built to understand layout systems, responsiveness, and modern UI patterns.
 
 - Tech: React, Tailwind CSS
-- Focus: layout, spacing, visual hierarchy
+- Focus: layout, spacing, visual hierarchy  
 👉 Repo: https://github.com/aniforever24/Spotify-clone
 
 ---
